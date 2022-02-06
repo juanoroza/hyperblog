@@ -8,5 +8,6 @@ It is a long established fact that a reader will be distracted by the readable c
 
 Creado por el ingreible Platzi Team
 Incluye ejemplos en windows, linux y max
+Disponible para todas las edades
 
 :smile: :laughing: :cry:
